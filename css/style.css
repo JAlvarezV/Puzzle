@@ -1,0 +1,12 @@
+div#puzzle {
+    margin: 0 auto;
+    width:  460px;
+}
+
+div#puzzle div {
+    float: left;
+    width: 150px;
+    height: 150px;
+    border: 1px solid black;
+    background-size:100% auto;
+}
