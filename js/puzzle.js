@@ -1,7 +1,5 @@
 class Puzzle {
 
-    //Cambiar el array a bidimensional para que las comprobaciciones de movimiento sean mas easy peasy :)
-
     constructor(){
         this.puzz = [
             [1,2,3],
